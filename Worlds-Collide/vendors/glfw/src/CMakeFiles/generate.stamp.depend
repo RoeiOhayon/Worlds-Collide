@@ -1,0 +1,3 @@
+# CMake generation dependency list for this directory.
+C:/dev/Worlds-Collide/submodules/glfw/CMake/glfw3.pc.in
+C:/dev/Worlds-Collide/submodules/glfw/src/CMakeLists.txt

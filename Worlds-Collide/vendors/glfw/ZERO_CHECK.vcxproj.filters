@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\Worlds-Collide\Worlds-Collide\vendors\glfw\CMakeFiles\8220b0c5c4e9486d51fb3231ea86efe4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{43985B11-F8D4-3075-99B4-769CF74A4142}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\Worlds-Collide\Worlds-Collide\vendors\glfw\CMakeFiles\ff732d0d2a6157c14da1b26558dccf28\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\Worlds-Collide\submodules\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\Worlds-Collide\submodules\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\dev\Worlds-Collide\submodules\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\dev\Worlds-Collide\Worlds-Collide\vendors\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{43985B11-F8D4-3075-99B4-769CF74A4142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AC6F0314-9F65-38E7-B245-7A325668DC67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
