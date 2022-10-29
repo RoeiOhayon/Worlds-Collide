@@ -19,8 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\UI\Components\Menu.cpp" />
+    <ClCompile Include="src\UI\Components\Row.cpp" />
+    <ClCompile Include="src\UI\Root.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\UI\Components\App.cpp" />
+    <ClCompile Include="src\imguiExample.cpp" />
     <ClCompile Include="src\UI\UIComponent.cpp" />
+    <ClCompile Include="src\UI\Components\Text.cpp" />
     <ClCompile Include="vendors\imgui\imgui.cpp" />
     <ClCompile Include="vendors\imgui\imgui_demo.cpp" />
     <ClCompile Include="vendors\imgui\imgui_draw.cpp" />
@@ -30,8 +36,14 @@
     <ClCompile Include="vendors\imgui\imgui_widgets.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\UI\Components\Menu.h" />
+    <ClInclude Include="src\UI\Components\Row.h" />
+    <ClInclude Include="src\UI\Components.h" />
+    <ClInclude Include="src\UI\Root.h" />
+    <ClInclude Include="src\UI\Components\App.h" />
     <ClInclude Include="src\UI\UIComponent.h" />
     <ClInclude Include="src\UI\UIProps.h" />
+    <ClInclude Include="src\UI\Components\Text.h" />
     <ClInclude Include="vendors\imgui\imconfig.h" />
     <ClInclude Include="vendors\imgui\imgui.h" />
     <ClInclude Include="vendors\imgui\imgui_impl_glfw.h" />
@@ -140,6 +152,9 @@
     <ClInclude Include="vendors\spdlog\spdlog\stopwatch.h" />
     <ClInclude Include="vendors\spdlog\spdlog\tweakme.h" />
     <ClInclude Include="vendors\spdlog\spdlog\version.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\..\..\Users\user\Desktop\Roei\Processing Sketches\SpaceshipGame\AllerFont.ttf" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

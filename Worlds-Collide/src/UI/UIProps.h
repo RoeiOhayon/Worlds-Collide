@@ -2,15 +2,15 @@
 
 #include <cstdint>
 
-struct GridData
-{
-	std::uint16_t row = 0;
-	std::uint16_t col = 0;
-	std::uint16_t rowSpan = 0;
-	std::uint16_t colSpan = 0;
-};
-
 struct UIProps
 {
-	GridData gridData = { 0, 0, 0, 0 };
+	float row = 0;
+	float col = 0;
+	float rowWidth = 0;
+	float colWidth = 0;
+
+	float width = 0;
+	float height = 0;
+
+	const char* name = "Default App Name";
 };
